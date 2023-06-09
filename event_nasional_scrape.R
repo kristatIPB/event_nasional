@@ -42,6 +42,3 @@ atlas <- mongo(
 
 atlas_conn$insert(data_event)
 rm(atlas_conn)
-
-
-
