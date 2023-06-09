@@ -27,7 +27,6 @@ for (i in 1:length(ycv)){
   meridiem[i]<-str_squish(gsub("[^A-z]","",jam2[i]))
   tempat[i]<-ycv[[i]][5]
 }
-nama_event
 data_event<-data.frame(nama_event,hari,jam,meridiem,tempat)
 data_event<-data_event[1:8,]
 data_event$waktu_scrap<-Sys.Date()
