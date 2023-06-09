@@ -1,9 +1,9 @@
-name: Event_Nasional_Scrape
+name: event
 
 on:
   schedule:
     - cron: '0 0 * * *'  # every day
-    workflow_dispatch:
+  workflow_dispatch:
     
 jobs:
   covid-scrape:
