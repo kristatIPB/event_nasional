@@ -1,4 +1,4 @@
-name: Event Nasional Scrape
+name: Event_Nasional_Scrape
 
 on:
   schedule:
