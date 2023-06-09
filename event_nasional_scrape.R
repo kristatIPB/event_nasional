@@ -40,12 +40,8 @@ atlas <- mongo(
   url        = Sys.getenv("ATLAS_URL")
 )
 
-
 atlas_conn$insert(data_event)
 rm(atlas_conn)
-
-#hapusdata_mongoDB
-atlas$remove('{}')
 
 
 
