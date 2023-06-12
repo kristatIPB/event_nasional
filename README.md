@@ -1,3 +1,12 @@
+# **EVENT**
+
+[![scrape_event](https://raw.githubusercontent.com/kristatIPB/dokumen_project/main/QQ.jpg)](https://raw.githubusercontent.com/kristatIPB/dokumen_project/main/QQ.jpg)
+
+<p align="center" width="100%">
+    <img width="70%" src="https://raw.githubusercontent.com/kristatIPB/dokumen_project/main/WW.jpg">
+</p>
+
+
 ## :blue_book: **Deskripsi**
 <p align="justify">
 Eventbrite adalah platform teknologi acara terbesar di dunia, yang memotori jutaan acara di lebih dari 180 negara dan wilayah. Halaman ini menyajikan informasi terkait Event - event nasional berdasarkan nama event, tempat dan waktu pelaksanaan. 
