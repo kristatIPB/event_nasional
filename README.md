@@ -27,6 +27,15 @@ Berikut contoh dokumen pada Mongo DB :
 "tempat":"AYANA Midplaza JAKARTA",
 "waktu_scrap":"2023-06-09"}
 ```
+
+### Hasil Scraping Tabel pada R
+Terdapat 40 baris dan 5 kolom.
+- Kolom 1 : Nama Event
+- Kolom 2 : Hari
+- Kolom 3 : Jam
+- Kolom 4 : a.m/p.m
+- Kolom 5 : Tempat
+
 ## :computer: **Visualisasi**
 
 Berikut link visualisasi dari data yang telah di scraping :
