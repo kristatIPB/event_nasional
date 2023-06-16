@@ -37,7 +37,7 @@ Terdapat 40 baris dan 5 kolom.
 ## :computer: **Visualisasi**
 
 Berikut link visualisasi dari data yang telah discraping :
-https://rpubs.com/kris009kapiluka
+https://rpubs.com/kris009kapiluka/1055389
 
 ## :walking: **Pengembang**
 **Kristuisno M. Kapiluka - G1501221034** https://github.com/kristatIPB
