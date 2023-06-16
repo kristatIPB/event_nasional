@@ -1,12 +1,5 @@
 # **EVENT**
 
-[![scrape_event](https://raw.githubusercontent.com/kristatIPB/dokumen_project/main/QQ.jpg)](https://raw.githubusercontent.com/kristatIPB/dokumen_project/main/QQ.jpg)
-
-<p align="center" width="100%">
-    <img width="70%" src="https://raw.githubusercontent.com/kristatIPB/dokumen_project/main/WW.jpg">
-</p>
-
-
 ## :blue_book: **Deskripsi**
 <p align="justify">
 Eventbrite adalah platform teknologi acara terbesar di dunia, yang memotori jutaan acara di lebih dari 180 negara dan wilayah. Halaman ini menyajikan informasi terkait Event - event nasional berdasarkan nama event, tempat dan waktu pelaksanaan. 
@@ -14,6 +7,12 @@ Eventbrite adalah platform teknologi acara terbesar di dunia, yang memotori juta
 
 <p align="justify">
 Project ini merupakan scraping data pada website https://www.eventbrite.com/d/indonesia/events/, dimana yang discraping adalah informasi terkait event - event nasional yang akan dilaksanakan di dalam negeri, sehingga memudahkan seseorang dalam mencari informasi terkait kegiatan atau event yang akan dilaksanakan.
+</p>
+
+[![scrape_event](https://raw.githubusercontent.com/kristatIPB/dokumen_project/main/QQ.jpg)](https://raw.githubusercontent.com/kristatIPB/dokumen_project/main/QQ.jpg)
+
+<p align="center" width="100%">
+    <img width="70%" src="https://raw.githubusercontent.com/kristatIPB/dokumen_project/main/WW.jpg">
 </p>
 
 ## :clipboard: **Dokumen**
@@ -27,7 +26,6 @@ Berikut contoh dokumen pada Mongo DB :
 "tempat":"AYANA Midplaza JAKARTA",
 "waktu_scrap":"2023-06-09"}
 ```
-
 ### Hasil Scraping Tabel pada R
 Terdapat 40 baris dan 5 kolom.
 - Kolom 1 : Nama Event
@@ -41,4 +39,4 @@ Terdapat 40 baris dan 5 kolom.
 Berikut link visualisasi dari data yang telah di scraping :
 
 ## :walking: **Pengembang**
-**Kristuisno M. Kapiluka - G1501221034**
+**Kristuisno M. Kapiluka - G1501221034** https://github.com/kristatIPB
